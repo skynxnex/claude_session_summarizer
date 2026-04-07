@@ -1,4 +1,4 @@
-# session_summarizer
+# claude_session_summarizer
 
 Claude Code Stop hook that maintains `SESSION.md` in your project directory after each session. The file is automatically loaded at the start of the next session to restore working context.
 
